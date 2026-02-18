@@ -8,43 +8,43 @@
 <script>
   const adverts = [
     {
-      image: "https://yourwebsite.co.uk/adverts/advert1.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser1.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert2.jpg",
+      image: "hhttps://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser2.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert3.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser3.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert4.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser4.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert5.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser5.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert6.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser6.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert7.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.pngg",
       link: "https://advertiser7.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert8.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser8.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert9.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser9.co.uk"
     },
     {
-      image: "https://yourwebsite.co.uk/adverts/advert10.jpg",
+      image: "https://cdn.jsdelivr.net/gh/BigMikeK-code/TD1-radio@presenters/kariningram.png",
       link: "https://advertiser10.co.uk"
     }
   ];
